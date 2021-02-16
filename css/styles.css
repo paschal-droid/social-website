@@ -1,0 +1,113 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+
+}
+
+
+.bg-pattern-top{
+  position: absolute;
+  width: 35%;
+}
+
+.text {
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 4rem;
+  padding-left: 100px;
+  color: hsl(300, 43%, 22%);
+}
+
+.edit {
+  padding-left: 100px;
+  font-family: "Spartan";
+  font-weight: 400;
+}
+
+.ratings {
+  background-color: hsl(300, 24%, 96%);
+  margin-bottom: 20px;
+}
+
+.ratediv{
+  padding: 50px 50px 0 100px;
+}
+
+.card-body {
+  color: hsl(300, 43%, 22%);
+}
+
+.stars{
+  margin-right: 20px;
+}
+
+.one{
+  margin-right: 80px;
+}
+
+.two{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.three{
+  margin-left: 80px;
+}
+
+h6{
+  font-family: "Spartan";
+  font-weight: 700;
+}
+
+.user-comments {
+  border-radius: 100%;
+  float: left;
+  margin-right: 20px;
+}
+ .yo {
+  padding: 3% 100px;
+ }
+
+.four {
+  margin-left: 10px;
+}
+
+.five{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.six {
+  margin-top: 60px;
+  margin-left: 10px;
+}
+
+.users{
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 5%;
+}
+
+.job{
+  color: hsl(333, 80%, 67%);
+}
+
+.card-body p,.name{
+  color: white;
+}
+
+.bg-bottom {
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+
+.card-header {
+  padding-top: 20px;
+}
+
+.name {
+  text-align: left;
+  padding-top: 10px;
+}
